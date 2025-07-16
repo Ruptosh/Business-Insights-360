@@ -13,3 +13,13 @@ AtliQ Hardware, a rapidly growing tech company, aimed to shift from intuition-ba
 * Check the pattern and trend of the data
 * Improve visibility of marketing and operational metrics
 * Support strategic, data-backed decisions
+
+## 💼 My Role & Deliverables
+ As a Data Analyst, I:
+* Create a data connection between MySQL & Power BI
+* Cleaned the data in Power Query
+* Designed a structured Power BI data model
+* Created calculated columns and measures using DAX
+* Developed intuitive page navigation with bookmarks and buttons
+* Applied dynamic titles, conditional formatting, and KPI indicators
+* Published and shared the dashboard via Power BI Service
