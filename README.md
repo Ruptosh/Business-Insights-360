@@ -8,6 +8,8 @@ Welcome to my Power BI portfolio project – Business Insights 360. Created duri
 AtliQ Hardware, a rapidly growing tech company, aimed to shift from intuition-based decisions and static Excel reports to a more data-driven approach. My objective was to develop an interactive Power BI dashboard that provides leadership with a comprehensive 360° view of key operational, marketing, and financial performance metrics.
 
 ## 🎯 Objectives
+* Identify important factors that drive the business and key decision mkaing KPIs
 * Enable leadership to identify revenue patterns and profitability drivers
+* Check the pattern and trend of the data
 * Improve visibility of marketing and operational metrics
 * Support strategic, data-backed decisions
