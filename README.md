@@ -80,7 +80,7 @@ AtliQ Hardware, a rapidly growing tech company, aimed to shift from intuition-ba
 
 
  ## Link to View the Live PowerBi DashBoard
- [🔗 View the Power BI Dashboard](https://app.powerbi.com/viewer=eyJrIjoiY2M5MDA5NzMtNjU1MS00YjhlLWI1NmItNGExNjAxZjI2NTkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+  [Click to view the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2M5MDA5NzMtNjU1MS00YjhlLWI1NmItNGExNjAxZjI2NTkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
  ## 📷 Dashboard Preview
  <img width="1062" height="651" alt="1" src="https://github.com/user-attachments/assets/945b59db-f4ff-4b6b-9bd3-b808541d9538" />
