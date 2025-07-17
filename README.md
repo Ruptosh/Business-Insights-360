@@ -45,7 +45,8 @@ AtliQ Hardware, a rapidly growing tech company, aimed to shift from intuition-ba
 * Absolute %
 
 ## ✅ Project Outcome Summary
-
+### Unified Dashboard Ecosystem:
+Designed and developed separate, fully interactive dashboards for Finance, Sales, Marketing, Supply Chain, and Statistical Analysis, delivering a 360° view of business operations.
 
 
 
