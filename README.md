@@ -79,7 +79,7 @@ AtliQ Hardware, a rapidly growing tech company, aimed to shift from intuition-ba
  This project enhanced my Power BI development expertise, expanded my grasp of key business and financial metrics, and sharpened my skills in transforming data into clear and impactful visual narratives.
 
 
- ## Link to View the Live PowerBi DashBoard
+ ## Link to View the Live PowerBI Dashboard
   [Click to view the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2M5MDA5NzMtNjU1MS00YjhlLWI1NmItNGExNjAxZjI2NTkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
  ## 📷 Dashboard Preview
