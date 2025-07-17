@@ -23,3 +23,30 @@ AtliQ Hardware, a rapidly growing tech company, aimed to shift from intuition-ba
 * Developed intuitive page navigation with bookmarks and buttons
 * Applied dynamic titles, conditional formatting, and KPI indicators
 * Published and shared the dashboard via Power BI Service
+
+## 🛠 Tools
+* 💻 Power BI Desktop
+* 💻 MySQL
+* ⚡ DAX
+* 📊 Power Query
+* ☁  Power BI Service
+
+## 📌Business Metrics
+* Gross Invoice Price
+* Standard Deviation Sales
+* Rolling Average Sales
+* Pre and Post Invoice Deductions
+* Net Invoice Sales
+* COGS
+* Gross Margin %
+* YTD and YTG metrics
+* Forecasting %
+* Net Error %
+* Absolute %
+
+## ✅ Project Outcome Summary
+
+
+
+
+
